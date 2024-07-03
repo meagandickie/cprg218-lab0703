@@ -4,3 +4,19 @@
     text-align: center;
 
 }
+#button {
+    background-color: rgb(251, 204, 230);
+    border: none;
+    color: rgb(46, 45, 45);
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  #button:hover {opacity: 1}
